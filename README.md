@@ -214,27 +214,32 @@ terraform destroy
 
 ### Portfolio Running on ECS
 
-![Portfolio Homepage](screenshots/portfolio-homepage.png)
+<img src="screenshots/portfolio-homepage.png" alt="Portfolio Homepage" width="800"/>
+
 _Portfolio website running in Docker container on AWS ECS Fargate_
 
 ### Container Information Endpoint
 
-![Container Info](screenshots/container-info-endpoint.png)
+<img src="screenshots/container-info-endpoint.png" alt="Container Info" width="800"/>
+
 _API endpoint showing container hostname and metrics_
 
 ### Terraform Deployment Success
 
-![Terraform Outputs](screenshots/terraform-outputs.png)
+<img src="screenshots/terraform-outputs.png" alt="Terraform Outputs" width="800"/>
+
 _Terraform successfully provisioned all infrastructure_
 
 ### AWS ECS Console
 
-![ECS Cluster](screenshots/ecs-console-cluster.png)
+<img src="screenshots/ecs-console-cluster.png" alt="ECS Cluster" width="800"/>
+
 _ECS cluster and running service in AWS Console_
 
 ### AWS ECR Repository
 
-![ECR Repository](screenshots/ecr-console-repository.png)
+<img src="screenshots/ecr-console-repository.png" alt="ECR Repository" width="800"/>
+
 _Docker image stored in AWS ECR_
 
 ## 🎓 What I Learned
