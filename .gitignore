@@ -23,5 +23,3 @@ terraform.tfvars
 # OS
 .DS_Store
 
-# Screenshots (we'll add these separately)
-screenshots/
